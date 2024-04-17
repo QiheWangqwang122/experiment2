@@ -1,0 +1,8 @@
+This project offers a generative, living impression of this inspiring image:source
+
+Relation to inspring image:
+
+Color: The colors utilized within the scene, such as the hues representing the sky, grass, trees, and stones, were meticulously selected by employing the eyedropper tool in Photoshop to match those found within the inspiring image. This ensures that the palette used is true to the natural beauty captured in the photograph.
+Polygons: The visual representation of the trees is achieved through the use of triangular primitives. These simple geometric shapes form the basic structure of the trees, providing a stylized yet recognizable portrayal.
+Composition: The generative aspect of the piece is highlighted by the use of varied random seed values. These influence the randomness in the mountain's shape and the trees' positions, ensuring that each rendering of the scene is distinct and refreshingly unpredictable.
+Life: To imbue the scene with a dynamic quality, the trees' positions are subtly animated over time. This animation is reminiscent of a view one might enjoy while passing by in a train, where the landscape seems to gently shift with the train's movement. Additionally, the scene incorporates a responsive element, where the sway of the trees is gently influenced by the horizontal movement of the mouse cursor, simulating the interactivity one would feel with the natural environment.
